@@ -1,2 +1,2 @@
 # LinuxDev2020
-README file
+README file revisited
