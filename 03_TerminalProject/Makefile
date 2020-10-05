@@ -1,5 +1,5 @@
-Window:	Window.c
-	cc Window.c -o Window -lncursesw
+Show:	Show.c
+	cc Show.c -o Show -lncursesw
 
 clean:
-	rm -f *~ *.o Window a.out
+	rm -f *~ *.o *w a.out
